@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! Eu sou a Letícia 👋
 
-<!--
-**Leticiafbm/Leticiafbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou uma desenvolvedora em aprendizado, apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em Front-end, com foco em JavaScript, Tailwind CSS e React.
 
-Here are some ideas to get you started:
+Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Desenvolvimento de Software
+
+📚 Aprendendo JavaScript, React e Tailwind CSS.
+
+💡 Focada em Front-end Development
+
+📅 Organizada com cronogramas para otimizar meus estudos
+
+🔎 Sempre em busca de novos desafios!
+
+Contato
+
+Se quiser trocar uma ideia ou colaborar em algum projeto, entre em contato comigo:
+
+📧 Email: leticiafernandabm6@gmail.com
+
+👨‍💻 LinkedIn: (https://www.linkedin.com/in/let%C3%ADcia-brito-65186b346/)
