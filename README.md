@@ -1,8 +1,8 @@
 # Olá! Eu sou a Letícia 👋
 
-Sou uma desenvolvedora em aprendizado, apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em Front-end, com foco em JavaScript, Tailwind CSS e React.
+## Sou uma desenvolvedora em aprendizado, apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em Front-end, com foco em JavaScript, Tailwind CSS e React.
 
-Sobre mim
+### Sobre mim
 
 🎓 Estudante de Desenvolvimento de Software
 
@@ -10,11 +10,9 @@ Sobre mim
 
 💡 Focada em Front-end Development
 
-📅 Organizada com cronogramas para otimizar meus estudos
-
 🔎 Sempre em busca de novos desafios!
 
-Contato
+### Contato
 
 Se quiser trocar uma ideia ou colaborar em algum projeto, entre em contato comigo:
 
