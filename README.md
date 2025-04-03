@@ -1,4 +1,4 @@
-Olá! Eu sou a Letícia 👋
+# Olá! Eu sou a Letícia 👋
 
 Sou uma desenvolvedora em aprendizado, apaixonada por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando em Front-end, com foco em JavaScript, Tailwind CSS e React.
 
